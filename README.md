@@ -4,7 +4,11 @@ I successfully removed elements in replace of semantic elements without distrupt
 
 ## Link
 
+(https://camilleyong.github.io/my-first-success/)
+
 ## GitHub
+
+(https://github.com/camilleyong/my-first-success)
 
 ## Photo
 ![ScreenShot](./assets/images/final-product.png)
